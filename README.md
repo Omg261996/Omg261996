@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>Full-stack MVP project (Django + role-based system + order & delivery management)<br><br>🤝 I’m looking to collaborate on<br>Web development projects & startup ideas<br><br>🆘 I’m looking for help with<br>System design & scalable backend architecture<br><br>🌱 I’m currently learning<br>Advanced Java + DSA for placements<br><br>💬 Ask me about<br>Java, Django, MVP building, or placement prep<br><br>⚡ Fun fact<br>I believe AI assists humans — it doesn’t replace them 😉
+I’m currently working on<br>Full-stack project (Django + role-based system + renting platform for students)<br><br>🤝 I’m looking to collaborate on<br>Web development projects & startup ideas<br><br>🆘 I’m looking for help with<br>System design & scalable backend architecture<br><br>🌱 I’m currently learning<br>Advanced Java + DSA for placements<br><br>💬 Ask me about<br>Java, Django, MVP building, or placement prep<br><br>⚡ Fun fact<br>I believe AI assists humans — it doesn’t replace them 😉
 
 
 ## 🌐 Socials:
